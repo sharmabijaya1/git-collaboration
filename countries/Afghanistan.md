@@ -1,5 +1,6 @@
 ##Afghanistan
 ## population
+## Literacy rate
 
 
 ## capital
