@@ -1,6 +1,7 @@
 ##Nepal
 ## population
-
+## Area
+## Geographical variation
 
 ## capital
 
